@@ -8,9 +8,9 @@ spring:
     name: ms-barriodigital-audit
 
   datasource:
-    url: jdbc:postgresql://ep-shy-glade-acs6skul-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+    url: jdbc:postgresql://ep-odd-lake-b6ucyj4t-pooler.c-2.sa-east-1.aws.neon.tech/neondb?sslmode=require
     username: neondb_owner
-    password: npg_Pmh8aYoxHne3
+    password: npg_C2zDVOo3HlGM
     driver-class-name: org.postgresql.Driver
 
   jpa:
